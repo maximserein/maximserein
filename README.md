@@ -11,9 +11,9 @@
 
 <h1 align="center">
   Also you can find out my 
-  <a href="https://github.com/northmaxota/Sber_CPP_Projects">CPP</a> 
+  <a href="https://github.com/maximserein/Sber_CPP_Projects">CPP</a> 
   and 
-  <a href="https://github.com/northmaxota/Sber_ML_Projects">DS/ML</a> 
+  <a href="https://github.com/maximserein/Sber_ML_Projects">DS/ML</a> 
   projects belong to Sber 21<br>
   (ex Ecole 42, rebranded for CIS zone)
 </h1>
