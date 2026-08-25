@@ -17,6 +17,8 @@
   projects belong to Sber 21<br>
   (ex Ecole 42, rebranded for CIS zone)
 </h1>
+<!--
 <p align="center">
   <a href="https://www.edisonlee55.com"><img src="mimic.gif" width=600px, alt="Banner"></a>
 </p>
+-->
